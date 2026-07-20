@@ -1,7 +1,6 @@
 node_modules
 .vscode
 .DS_store
-.env
 .idea
 yarn.lock
 test.py
@@ -14,3 +13,4 @@ wash/
 .claude
 CLAUDE.md
 skills/dimension-failure-fixer/
+config.bat
